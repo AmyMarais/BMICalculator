@@ -1,0 +1,10 @@
+/* basic styling for LearnMore.js file */
+
+.logic {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    padding-left: 350px;
+    padding-right: 350px;
+    padding-top: 60px;
+}
